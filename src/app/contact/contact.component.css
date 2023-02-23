@@ -1,0 +1,25 @@
+ form {
+   display: flex;
+   flex-direction: column;
+   margin-top: 6rem;
+ }
+
+ .input {
+   margin-top: 1rem;
+   width: 20vw;
+ }
+
+ textarea {
+   width: 20vw;
+   height: 15vh;
+ }
+
+ button {
+   margin-top: 1rem;
+   width: 5vw;
+   border-radius: 5px;
+   border: none;
+   background-color: #333333;
+   color: white;
+   padding: 0.5rem;
+ }
